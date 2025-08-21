@@ -1,0 +1,2 @@
+The aim of this code is to create a dictionary that stores every project around the country as its name as the key and relevant information such as which sales rep it is linked to and what salesforce opportunity ID it has (in order to access its related link in SF easier) as the values. 
+The second iteration, nested dictionary takes a different approach and uses every state in the country as the keys inside the dictionary which are then linked to project name and salesforce ID as the values. 
